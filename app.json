@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tambola-number",
-    "slug": "tambola-number",
+    "name": "Tambola Bingo Housie Number Generator",
+    "slug": "tambola-bingo-housie-number-generator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
